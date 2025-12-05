@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "[https://mahdi-soleimani.github.io/NexoraAIVoiceAssistant](https://mahdi-soleimani.github.io/NexoraAIVoiceAssistant)",
+  "homepage": "https://mahdi-soleimani.github.io/NexoraAIVoiceAssistant",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
